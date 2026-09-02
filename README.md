@@ -117,5 +117,8 @@ definición de los objetos implicados. No incluyas contraseñas ni datos de clie
 
 ## Licencia
 
-Software propietario. Su uso está sujeto a las condiciones acordadas con el propietario; la
-redistribución de los binarios no está permitida.
+Software propietario: consulta [LICENSE.md](LICENSE.md). En resumen, puedes instalarlo y usarlo
+en los equipos de tu organización; no está permitido redistribuirlo, modificarlo ni ofrecerlo como
+servicio. Los binarios incorporan bibliotecas de código abierto con sus propias licencias, listadas
+en [THIRD-PARTY-LICENSES.md](THIRD-PARTY-LICENSES.md); ambos ficheros van también dentro de cada
+paquete descargable.
