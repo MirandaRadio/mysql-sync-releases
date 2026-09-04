@@ -108,4 +108,4 @@ cada versión del Software.
 
 ---
 
-Copyright © 2026 [NOMBRE LEGAL DEL TITULAR]. Todos los derechos reservados.
+Copyright © 2026 CEPEISA. Todos los derechos reservados.
